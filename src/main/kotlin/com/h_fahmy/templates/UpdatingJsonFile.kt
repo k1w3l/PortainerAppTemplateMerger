@@ -31,6 +31,7 @@ fun startUpdating(interval: Duration) {
             "https://raw.githubusercontent.com/mikestraney/portainer-templates/master/templates.json",
             "https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/Template/template.json",
             "https://raw.githubusercontent.com/ntv-one/portainer/main/template.json"
+            "https://raw.githubusercontent.com/novaspirit/pi-hosted/refs/heads/master/pi-hosted_template/template/portainer-v2.json"
         )
 
         // map the urls to a list of template json objects
